@@ -1,0 +1,9 @@
+[project]
+name = "skillforge"
+version = "0.1.0"
+description = "Forge your skills in Python, SQL, and prepare for certifications."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ruff>=0.9.2",
+]
